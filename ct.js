@@ -3613,7 +3613,7 @@ for (const layer of this.tileLayers) {
          * The name of the starting room, as it was set in ct.IDE.
          * @type {string}
          */
-        starting: 'p4'
+        starting: 'splash'
     };
 })();
 /**
